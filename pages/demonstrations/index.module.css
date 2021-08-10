@@ -1,0 +1,34 @@
+.h1{
+    font-weight: normal;
+}
+
+.longInput{
+    width:70%;
+    padding: 9px;
+    border: 1px solid rgb(200, 200, 200);
+    background-color: white;
+    font-family: inherit;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.projectCard{
+    border-radius: 5px;
+    color: white;
+    background: rgb(0, 100, 150);
+    margin: 15px 0;
+    padding: 42px;
+    font-size: 18px;
+}
+
+.projectCard .title{
+    font-size: 42px;
+}
+
+.projectCard .button{
+    border-radius: 5px;
+    color: rgb(0, 10, 15);
+    background: white;
+    padding: 9px;
+    display: inline-block;
+}

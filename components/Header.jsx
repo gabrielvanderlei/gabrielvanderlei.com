@@ -20,6 +20,11 @@ export default function Header(){
                             Other Projects
                         </div>
                     </Link>
+                    <Link href="/demonstrations">
+                        <div className={styles.menuOptions}>
+                            Demonstrations
+                        </div>
+                    </Link>
                 </div>
             </div>
         </>
